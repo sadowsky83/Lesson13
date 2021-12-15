@@ -132,7 +132,7 @@ namespace task1
         public new void Print()
         {     
             base.Print();
-            Console.WriteLine("количество этажей здания " + Floors);
+            Console.WriteLine("количество этажей здания " + floors);
         }
     }
 }
